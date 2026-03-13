@@ -138,4 +138,25 @@ Through this session, I developed a clear understanding of how non-static member
 
 # day 14
 
+Work Summary
 
+On the fourteenth day of the internship, I learned about non-static initializer blocks and how they are used in Java classes. A non-static initializer is a block of code that executes whenever an object of the class is created. I also studied the object loading process, which explains the sequence of steps that occur when an object is created in memory. These steps include memory allocation, default initialization, execution of initializer blocks, and constructor execution. Additionally, I was introduced to the static keyword in Java. Static variables and methods belong to the class rather than objects and are shared among all instances.
+
+Learning Outcomes
+
+Through this session, I gained a better understanding of how objects are initialized and loaded in Java programs. I learned that non-static initializer blocks are executed automatically when objects are created and are useful for initializing instance variables. I also understood the object loading process and the sequence of events that occur when an object is instantiated. The introduction to static members helped me understand how static variables and methods belong to the class rather than individual objects. This knowledge strengthened my understanding of Java class structure and object lifecycle.
+
+---
+
+# day 15
+
+Work Summary
+
+On the fifteenth day of the internship, I studied the concept of static members in Java, including static variables, static methods, and static initializer blocks. Static variables belong to the class rather than individual objects and are shared among all instances of the class. I learned how static methods can be called using the class name without creating an object. The session also introduced static initializer blocks, which are used to initialize static variables when the class is loaded into memory. Through examples and practice programs, I understood how static members help in efficient memory usage and improve program structure.
+
+Learning Outcomes
+
+Through this session, I gained a clear understanding of static members in Java. I learned that static variables are shared among all objects and are stored only once in memory. I also understood how static methods belong to the class and can be accessed without creating objects. Practicing static initializer blocks helped me understand how static variables can be initialized when the class is loaded. This knowledge improved my understanding of how Java manages class-level data and functions. Overall, this session strengthened my understanding of static concepts and their importance in object-oriented programming.
+
+
+---
