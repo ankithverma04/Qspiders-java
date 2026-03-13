@@ -82,3 +82,23 @@ Through this session, I developed a better understanding of moderate-level patte
 ---
 
 Day 09
+# Work Summary
+
+On the ninth day of the internship, I learned about methods in Java programming. Methods are blocks of code that perform specific tasks and help organize a program into reusable components. The session covered the basic concept of methods, method creation, and method calling. I also learned about different types of methods, including no argument methods and parameterized methods. Through practical examples, I understood how methods can simplify program structure and reduce code repetition. Implementing these concepts helped me understand how program control transfers when a method is called and how parameters can be used to pass values to methods.
+
+# Learning Outcomes
+
+Through this session, I gained a clear understanding of how methods work in Java programming. I learned the syntax used to create methods and how methods are called from the main program. I also understood the difference between no argument methods and parameterized methods. Practicing these concepts improved my ability to structure programs in a modular way. I realized that methods play an important role in making programs easier to read, maintain, and reuse. This session helped strengthen my programming fundamentals and improved my confidence in writing structured and organized Java programs.
+
+--- 
+
+Day 10
+
+# Work Summary
+
+On the tenth day of the internship, I learned advanced concepts related to methods in Java. The session covered how methods can return values using the return statement and how methods act as members of a class. I also explored the use of built-in methods provided by Java, such as methods from the Math class. Another important concept introduced was dynamic input reading using the Scanner class, which allows programs to take input from users during execution. Finally, I practiced method overloading, where multiple methods share the same name but differ in parameters. These topics helped me understand how methods improve program flexibility and functionality.
+
+# Learning Outcomes
+
+Through this session, I gained a deeper understanding of how methods function within Java programs. I learned how methods can return values and how those values can be used by other parts of the program. I also understood that methods are important members of a class and define its behavior. Using built-in methods helped me see how Java provides ready-to-use functionality for common tasks. Learning dynamic input reading using the Scanner class improved my ability to write interactive programs. Additionally, practicing method overloading enhanced my understanding of how the same method name can perform different tasks based on parameters.
+ 
