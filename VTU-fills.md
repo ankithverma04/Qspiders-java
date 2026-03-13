@@ -55,3 +55,16 @@ On the sixth day of the internship, I worked on moderate and difficult number-ba
 
 **Learning Outcomes (≈100 words)**
 From this session, I developed stronger problem-solving skills by working on more challenging number programs. I learned how mathematical concepts can be translated into programming logic using loops and conditional statements. Implementing Armstrong, perfect, and strong number programs helped me understand digit-based computations and factorial calculations. These exercises improved my analytical thinking and programming efficiency. Overall, this session helped me build confidence in solving moderately complex problems using Java and prepared me for more advanced programming challenges.
+
+---
+
+# Day 7
+
+# Work Summary
+
+On the seventh day of the internship, the focus was on learning pattern programs in Java at an easy level. The session introduced the concept of pattern printing using nested loops. Pattern programs involve printing characters, numbers, or symbols in a structured format to create different shapes and designs. I studied how the outer loop controls the number of rows and the inner loop controls the number of elements printed in each row. Several basic pattern programs were implemented, including square star patterns, right triangle star patterns, inverted triangles, and number-based patterns. These exercises helped me understand how nested loops work together to generate structured outputs.
+
+# Learning Outcomes
+
+Through this session, I gained a better understanding of how nested loops are used to generate patterns in Java programming. I learned how the outer loop controls the rows while the inner loop controls the columns or elements printed in each row. Practicing easy-level pattern programs improved my logical thinking and strengthened my understanding of loop execution. I also learned how to control program output using print statements and loop conditions. This session helped me develop a strong foundation in pattern-based programming and improved my confidence in solving similar programming problems using Java.
+
