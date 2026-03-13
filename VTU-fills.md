@@ -68,3 +68,17 @@ On the seventh day of the internship, the focus was on learning pattern programs
 
 Through this session, I gained a better understanding of how nested loops are used to generate patterns in Java programming. I learned how the outer loop controls the rows while the inner loop controls the columns or elements printed in each row. Practicing easy-level pattern programs improved my logical thinking and strengthened my understanding of loop execution. I also learned how to control program output using print statements and loop conditions. This session helped me develop a strong foundation in pattern-based programming and improved my confidence in solving similar programming problems using Java.
 
+--- 
+DAY 8
+
+# Work Summary
+
+On the eighth day of the internship, I practiced moderate-level pattern programs in Java. The session focused on using nested loops to generate structured patterns involving stars and numbers. Unlike easy patterns, moderate patterns required careful control of spaces and loop conditions to produce pyramid-style and triangular shapes. I implemented several patterns such as star pyramid, inverted pyramid, Floyd’s triangle, number pyramid, and half diamond pattern. These programs helped me understand how multiple loops work together to control rows, columns, and spacing. Practicing these programs improved my understanding of nested loops and strengthened my ability to design structured outputs using Java.
+
+# Learning Outcomes
+
+Through this session, I developed a better understanding of moderate-level pattern programs and how nested loops can be used to control both characters and spaces in program output. I learned how pyramid-style patterns are created by adjusting loop ranges and spacing logic. Implementing patterns such as Floyd’s triangle and number pyramid improved my logical thinking and ability to visualize program execution. This session also strengthened my understanding of how multiple loops interact to create structured outputs. Overall, the practice helped improve my programming skills and increased my confidence in solving pattern-based programming problems in Java.
+
+---
+
+Day 09
